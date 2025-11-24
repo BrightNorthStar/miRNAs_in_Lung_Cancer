@@ -15,7 +15,7 @@ This study aims
 - to advocate for a broader, more inclusive approach in miRNA-based disease diagnostics.
 
 # Background Research
-- IMAGE FILE
+![miRNA action illustration.](/BackgroundResearch.png)
 
 ## Protein Synthesis and Gene Expression Regulation by miRNAs
 

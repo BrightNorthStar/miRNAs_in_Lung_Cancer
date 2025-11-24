@@ -71,4 +71,6 @@ This dataset provides sequence-specific information for miRNAs, including attrib
 ## Google Colab Environment:
 Google Colab, a cloud-based Jupyter Notebook platform with free access to computing resources (including GPUs and TPUs), was used to implement the diagnostic classifiers and the miRNA feature clustering algorithm. (The developed Jupyter Notebook (in Python) is available upon request.)
 
+## Procedure
 
+![Two block diagrams illustrating the two steps of the procedure developed and implemented.](/Procedure.png)

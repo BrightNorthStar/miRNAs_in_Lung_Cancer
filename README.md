@@ -93,6 +93,23 @@ Google Colab, a cloud-based Jupyter Notebook platform with free access to comput
 
 ![miRNA distributions across clusters, 1 heatmap.](/miRNADistributionsAcrossClusters.png)
 
+# Discussion
+
+## Diagnostic Potential of miRNAs in Lung Cancer (LC)
+
+- Medium dysregulation (MD) miRNAs achieved a very high diagnostic accuracy (99.2%), comparable to high dysregulation (HD) miRNAs (99.7%).
+- Non-significant dysregulation (ND) miRNAs also demonstrated notable diagnostic potential (92.1% accuracy). 
+
+## Insights from K-Means Clustered miRNA Attributes
+
+- 31 clusters were identified based on miRNA sequence attributes using k-means clustering and elbow method.
+- 13, close to half, of the 31 clusters comprise both HD and MD miRNAs, highlighting shared and/or alike features i.e., attribute values.
+- Clusters with indices 1, 7, and 23 include numerous discriminative MD miRNAs without any HD category representation, pointing to unique-to-MD features and likely novel biochemical mechanisms in LC.
+
+## Dimensionality Reduction Related Observations
+
+- PCA (linear) and t-SNE (nonlinear) techniques, both applied for a two-dimensional output, confirmed the need for a substantially higher dimensional presentation and analysis for feature separation.
+
 # References
 
 [1] Asakura, K., Kadota, T., Matsuzaki, J. et al. (2020). A miRNA-based diagnostic model predicts resectable lung cancer in humans with high accuracy. Communications Biology, 3(1), 1–9. https://doi.org/10.1038/s42003-020-0863-y

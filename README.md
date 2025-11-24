@@ -138,6 +138,32 @@ Google Colab, a cloud-based Jupyter Notebook platform with free access to comput
 
 ![Illustration of practical diagnostic benefit of the proposed approach.](/DiagnosticBenefitofProposedApproach.png)
 
+# Significance
+
+## Further Research Questions
+
+- Which sequence attribute values are shared/similar between MD and HD miRNAs, and which others are unique to either category?
+- How do these attribute values influence miRNA function e.g., target mRNAs, regulatory behavior, and disease mechanisms?
+- Which other miRNAs possess same/similar attribute values and may, therefore, be relevant biomarkers?
+- Can attribute values help predict miRNAs’ impact more robustly?
+- How to explain ND category’s observed performance?
+
+## Future Directions
+
+- Investigate shared/similar sequence attribute values within the 13 mixed i.e., both HD and MD miRNA containing, as well as the 3 only MD miRNA containing clusters to, respectively, uncover common functional patterns and gain novel insights into LC-specific biochemical mechanisms.
+- Map key HD and MD miRNAs to their target mRNAs, and, consequently, to the indicated pathways of the corresponding proteins.
+- Revisit and refine some best performing contemporary LC diagnostic models by incorporating both HD and MD miRNAs.
+- Validate current findings in the sample cases of some other diseases.
+
+## Applications and Impact
+
+- Conventionally neglected MD miRNAs shown to provide valuable clinical information for LC diagnosis. In view of miRNA action mechanisms being common and/or similar across diseases, similar results can be expected for other diseases. 
+- The diversity and novel information provided by MD miRNAs enable
+  - a more complete view of diseases’ biochemical mechanisms,
+  - improved accuracy of diagnostic tools, prognosis and treatment response assessment,
+  - enhanced precision medicine and personalized treatment strategies,
+  - more successful therapeutic interventions.
+
 # References
 
 [1] Asakura, K., Kadota, T., Matsuzaki, J. et al. (2020). A miRNA-based diagnostic model predicts resectable lung cancer in humans with high accuracy. Communications Biology, 3(1), 1–9. https://doi.org/10.1038/s42003-020-0863-y

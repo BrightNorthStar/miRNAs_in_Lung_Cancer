@@ -16,7 +16,7 @@ This study aims
 
 # Background Research
 
-![miRNA action illustration.](/BackgroundResearch.png)
+![miRNA action illustration.](/readme_images/BackgroundResearch.png)
 
 ## Protein Synthesis and Gene Expression Regulation by miRNAs
 
@@ -61,37 +61,37 @@ This study aims
 ## miRNA Microarray Data [4]
 This dataset comprises full miRNA expression profiles for 1,566 lung cancer (LC) patients and 2,178 patients without LC. The large sample size across both positive (LC(+)) and negative (LC(-)) classes enabled statistically robust partitioning of miRNAs into three categories based on dysregulation level: high (HD, |log2(FC)| ≥ 1.0), medium (MD, 0.15 ≤ |log2(FC)| < 1.0), and non-significant (ND, 0 < |log2(FC)| < 0.15 ).
 
-![miRNA Microarray Data format - illustrative table.](/miRNAMicroarrayDataFormat.png)
+![miRNA Microarray Data format - illustrative table.](/readme_images/miRNAMicroarrayDataFormat.png)
 
 ## miRNA Sequence Data [8]
 This dataset provides sequence-specific information for miRNAs, including attributes such as sequence length, molecular weight, mononucleotide counts and frequencies, and dinucleotide counts and frequencies. Following the selection of the most discriminative miRNAs from the HD and MD categories, this dataset was used in the second phase of the study to comparatively analyze sequence attributes across HD and MD miRNAs through attribute-based clustering.
 
-![miRNA Sequence Data format - illustrative table.](/miRNASequenceDataFormat.png)
+![miRNA Sequence Data format - illustrative table.](/readme_images/miRNASequenceDataFormat.png)
 
 ## Google Colab Environment
 Google Colab, a cloud-based Jupyter Notebook platform with free access to computing resources (including GPUs and TPUs), was used to implement the diagnostic classifiers and the miRNA feature clustering algorithm. (The developed Jupyter Notebook (in Python) is available upon request.)
 
 ## Procedure
 
-![Two block diagrams illustrating the two steps of the procedure developed and implemented.](/Procedure.png)
+![Two block diagrams illustrating the two steps of the procedure developed and implemented.](/readme_images/Procedure.png)
 
 # Results
 
 ## Diagnostic Classifier KPIs
 
-![Diagnostic classifier KPIs, bar plot and table.](/KPIs.png)
+![Diagnostic classifier KPIs, bar plot and table.](/readme_images/KPIs.png)
 
 ## Dimensionality Reduction
 
-![Dimensionality reduction, two scatter plots.](/DimensionalityReduction.png)
+![Dimensionality reduction, two scatter plots.](/readme_images/DimensionalityReduction.png)
 
 ## Mean Sequence Attributes in Observed miRNA Clusters
 
-![Mean sequence attributes in observed miRNA clusters, 3 heatmaps.](/MeanSequenceAttributesperCluster.png)
+![Mean sequence attributes in observed miRNA clusters, 3 heatmaps.](/readme_images/MeanSequenceAttributesperCluster.png)
 
 ## miRNA Distributions Across Clusters
 
-![miRNA distributions across clusters, 1 heatmap.](/miRNADistributionsAcrossClusters.png)
+![miRNA distributions across clusters, 1 heatmap.](/readme_images/miRNADistributionsAcrossClusters.png)
 
 # Discussion
 
@@ -136,7 +136,7 @@ Google Colab, a cloud-based Jupyter Notebook platform with free access to comput
 
 - miRNAs associated with these clusters are likely to provide valuable new insight into LC diagnosis, prognosis, drug research and treatment planning.
 
-![Illustration of practical diagnostic benefit of the proposed approach.](/DiagnosticBenefitofProposedApproach.png)
+![Illustration of practical diagnostic benefit of the proposed approach.](/readme_images/DiagnosticBenefitofProposedApproach.png)
 
 # Significance
 

@@ -110,6 +110,34 @@ Google Colab, a cloud-based Jupyter Notebook platform with free access to comput
 
 - PCA (linear) and t-SNE (nonlinear) techniques, both applied for a two-dimensional output, confirmed the need for a substantially higher dimensional presentation and analysis for feature separation.
 
+# Conclusions
+
+## Hypothesis vs Outcome
+
+- <ins>Hypothesis:</ins> miRNAs with medium dysregulation (MD miRNAs) and high dysregulation (HD miRNAs) both achieve similar performances of Lung Cancer (LC) diagnosis using machine learning techniques.
+
+- <ins>Outcome:</ins> Study results are consistent with and support the hypothesis i.e., MD miRNAs have diagnostic potential comparable to HD miRNAs in LC.
+
+## Key Findings
+
+**I. Rethinking the Utility of miRNA Expression Levels in Diagnostics** (broad applicability)
+
+- Quantitative significance alone does not necessarily indicate biological significance - regulatory complexity matters when considering expression level changes.
+
+- Including MD miRNAs expands biomarker diversity - enhancing the understanding of biochemical mechanisms, early diagnosis, subclassification, prognosis assessment of diseases, and enable refining precision medicine approaches.
+
+**II. Common/Similar Sequence Attributes of HD and MD miRNAs in LC**
+
+- Despite their distinct dysregulation levels, common or similar sequence attribute values observed within a mixed cluster of HD and MD miRNAs, suggest similar or related regulatory roles - indicating some already known pathways in LC are being promoted in yet overlooked ways.
+
+**III. Sequence Attributes Unique to Some Key MD miRNAs in LC**
+
+- Multiple, densely populated clusters comprising only key MD miRNAs, are identified – sequence attribute values associated with these clusters unique to the MD category, convey novel information about the biochemical mechanisms of LC.
+
+- miRNAs associated with these clusters are likely to provide valuable new insight into LC diagnosis, prognosis, drug research and treatment planning.
+
+![Illustration of practical diagnostic benefit of the proposed approach.](/DiagnosticBenefitofProposedApproach.png)
+
 # References
 
 [1] Asakura, K., Kadota, T., Matsuzaki, J. et al. (2020). A miRNA-based diagnostic model predicts resectable lung cancer in humans with high accuracy. Communications Biology, 3(1), 1–9. https://doi.org/10.1038/s42003-020-0863-y

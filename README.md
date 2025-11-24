@@ -93,4 +93,36 @@ Google Colab, a cloud-based Jupyter Notebook platform with free access to comput
 
 ![miRNA distributions across clusters, 1 heatmap.](/miRNADistributionsAcrossClusters.png)
 
-# TBC
+# References
+
+[1] Asakura, K., Kadota, T., Matsuzaki, J. et al. (2020). A miRNA-based diagnostic model predicts resectable lung cancer in humans with high accuracy. Communications Biology, 3(1), 1–9. https://doi.org/10.1038/s42003-020-0863-y
+
+[2] Coding and Non-Coding RNA | Bio-Rad. (n.d.). Bio-Rad. https://www.bio-rad.com/en-us/applications-technologies/coding-non-coding-rna?ID=Q1070M70KWE7
+
+[3] Cortez, M. A., Bueso-Ramos, C., Ferdin, J. et al. (2011). MicroRNAs in body fluids—the mix of hormones and biomarkers. Nature Reviews Clinical Oncology, 8(8), 467–477. https://doi.org/10.1038/nrclinonc.2011.76
+
+[4] GEO Accession viewer. (2024). Nih.gov. https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE137140
+
+[5] Ho, P. T. B., Clark, I. M., & Le, L. T. T. (2022). MicroRNA-Based Diagnosis and Therapy. International Journal of Molecular Sciences, 23(13), 7167. https://doi.org/10.3390/ijms23137167
+
+[6] Hoerter, J. E., & Ellis, S. R. (2019, August 13). Biochemistry, Protein Synthesis. Nih.gov; StatPearls Publishing. https://www.ncbi.nlm.nih.gov/books/NBK545161/
+
+[7] Liang, Z., Zhou, H., Zheng, H., & Wu, J. (2011). Expression levels of microRNAs are not associated with their regulatory activities. Biology Direct, 6(1), 43–43. https://doi.org/10.1186/1745-6150-6-43
+
+[8] miRCarta - miRBase overview. (2018). Uni-Saarland.de. https://mircarta.cs.uni-saarland.de
+
+[9] Nature Education. (2014). Protein Structure | Learn Science at Scitable. Nature.com. https://www.nature.com/scitable/topicpage/protein-structure-14122136/
+
+[10] O’Brien, J., Hayder, H., Zayed, Y., & Peng, C. (2018). Overview of MicroRNA Biogenesis, Mechanisms of Actions, and Circulation. Frontiers in Endocrinology, 9(402).  https://doi.org/10.3389/fendo.2018.00402
+
+[11] Scitable. (2009). Ribosomes, Transcription, Translation | Learn Science at Scitable. Nature.com. https://www.nature.com/scitable/topicpage/ribosomes-transcription-and-translation-14120660/
+
+[12] Tian, S., Zhao, Z., Ren, B., & Wang, D. (2024). Non-Linear Relationship between MiRNA Regulatory Activity and Binding Site Counts on Target mRNAs. Data, 9(10), 111–111. https://doi.org/10.3390/data9100111
+
+[13] Venneri, M., & Passantino, A. (2023). MiRNA: what clinicians need to know. European Journal of Internal Medicine, 113, 6–9. https://doi.org/10.1016/j.ejim.2023.05.024
+
+[14] Zhang, W., Dahlberg, J. E., & Tam, W. (2007). MicroRNAs in Tumorigenesis. The American Journal of Pathology, 171(3), 728–738. https://doi.org/10.2353/ajpath.2007.070070
+
+[15] Mukherji, S., Ebert, M. S., Zheng, G. X. Y. et al. (2011). MicroRNAs can generate thresholds in target gene expression. Nature Genetics, 43(9), 854–859. https://doi.org/10.1038/ng.905
+
+[16] Yavropoulou, M. P., & Yovos, J. G. (2018). The “dark matter” of DNA and the regulation of bone metabolism: The role of non-coding RNAs. Journal of Musculoskeletal & Neuronal Interactions, 18(1), 18–31. https://www.researchgate.net/publication/323582989_The_dark_matter_of_DNA_and_the_regulation_of_bone_metabolism_The_role_of_non-coding_RNAs

@@ -15,6 +15,7 @@ This study aims
 - to advocate for a broader, more inclusive approach in miRNA-based disease diagnostics.
 
 # Background Research
+
 ![miRNA action illustration.](/BackgroundResearch.png)
 
 ## Protein Synthesis and Gene Expression Regulation by miRNAs
@@ -55,5 +56,19 @@ This study aims
 - miRNA-based therapies are being explored for cancer treatment, with potential for clinical applications [5].
 - Ongoing research aims to classify cancers based on miRNA expression profiles, improving precision medicine approaches [14].
 
+# Materials and Procedure
+
+## miRNA Microarray Data [4]:
+This dataset comprises full miRNA expression profiles for 1,566 lung cancer (LC) patients and 2,178 patients without LC. The large sample size across both positive (LC(+)) and negative (LC(-)) classes enabled statistically robust partitioning of miRNAs into three categories based on dysregulation level: high (HD, |log2(FC)| ≥ 1.0), medium (MD, 0.15 ≤ |log2(FC)| < 1.0), and non-significant (ND, 0 < |log2(FC)| < 0.15 ).
+
+![miRNA Microarray Data format - illustrative table.](/miRNAMicroarrayDataFormat.png)
+
+## miRNA Sequence Data [8]:
+This dataset provides sequence-specific information for miRNAs, including attributes such as sequence length, molecular weight, mononucleotide counts and frequencies, and dinucleotide counts and frequencies. Following the selection of the most discriminative miRNAs from the HD and MD categories, this dataset was used in the second phase of the study to comparatively analyze sequence attributes across HD and MD miRNAs through attribute-based clustering.
+
+![miRNA Sequence Data format - illustrative table.](/miRNASequenceDataFormat.png)
+
+## Google Colab Environment:
+Google Colab, a cloud-based Jupyter Notebook platform with free access to computing resources (including GPUs and TPUs), was used to implement the diagnostic classifiers and the miRNA feature clustering algorithm. (The developed Jupyter Notebook (in Python) is available upon request.)
 
 

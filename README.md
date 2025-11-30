@@ -5,7 +5,7 @@ A machine learning based study of the quantitative and biological significances 
 
 ## Contributors
 - Tarik Oguz - Del Norte High School, San Diego, California, USA 
-- Ali Kemal Oguz, MD, PhD - AFFILIATION
+- Ali Kemal Oguz, MD, PhD (Biotech.) - Baskent University School of Medicine & Hospital, Ankara, Turkiye
 
 # Introduction
 MicroRNAs (miRNAs) are small, non-coding RNAs that modulate gene expression by down-regulating (via mRNA degradation and translational repression) or up-regulating (via direct mRNA activation or repression attenuation) their target genes. As miRNA dysregulation often occurs early in disease progression and circulating miRNAs are detectable in body fluids, they represent valuable non-invasive biomarkers for early diagnosis, prognosis, treatment monitoring, and drug discovery [3].
